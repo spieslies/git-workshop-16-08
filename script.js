@@ -1,1 +1,2 @@
-console.log('HW1 HW2')
+console.log('HW2')
+console.log('HW1')
